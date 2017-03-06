@@ -20,4 +20,8 @@ Submission
 * writeup report and code
     * p5\_submit.ipynb
 * vide output
+    * test\_video\_output.mp4 (original video: test\_video.mp4)
     * project\_video\_output.mp4 (original video: project\_video.mp4)
+* pickled data
+    * svc.p
+    * X\_scaler.p
